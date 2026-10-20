@@ -232,18 +232,7 @@ Contributions, bug reports, and suggestions are welcome.
 Do not include API keys, credentials, private project data, or sensitive
 generated reports in commits.
 
-## License
 
-No license has been specified yet. Add a license file if you intend to
-define permissions for reuse and redistribution.
-
-## Author
-
-**Abhiram Binil**
-
--   GitHub: [@abhirambinil-08](https://github.com/abhirambinil-08)
-
-------------------------------------------------------------------------
 
 *VVA --- Automating the journey from code changes to clear
 documentation.*
